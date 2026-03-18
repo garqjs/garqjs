@@ -41,8 +41,19 @@ Mi formación doctoral me permite abordar problemas de datos desde una perspecti
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=garqjs&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garqjs&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api?username=garqjs&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="185" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garqjs&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Lenguajes más usados" height="185" />
 </p>
 
-📫 **¿Hablamos?** [LinkedIn](tu-link-a-linkedin) | [Email](mailto:pgquijas@gmail.com)
+---
+
+### 📩 ¿Hablamos?
+¡Siempre estoy abierto a discutir nuevos proyectos de ciencia de datos, optimización financiera o sistemas complejos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUÍ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgquijas@gmail.com)
+
+---
+<p align="center">
+  <i>"No solo busco patrones, busco entender la dinámica del sistema."</i>
+</p>
