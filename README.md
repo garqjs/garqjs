@@ -1,5 +1,5 @@
 # Hola, soy Paulo García Quijas 👋 
-### Análisis de Datos | Ciencia de Datos Aplicada | Optimización Operativa
+### Análisis de Datos | Ciencia de Datos Aplicada
 
 Me especializo en transformar sistemas de datos masivos y complejos en soluciones estratégicas de negocio. Mi enfoque combina el **rigor analítico** con las tecnologías modernas de alto rendimiento para optimizar la toma de decisiones.
 
