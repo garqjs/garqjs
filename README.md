@@ -1,7 +1,19 @@
 # Hola, soy Paulo García Quijas 👋 
-### Análisis de Datos | Ciencia de Datos Aplicada
 
-Me especializo en transformar sistemas de datos masivos y complejos en soluciones estratégicas de negocio. Mi enfoque combina el **rigor analítico** con las tecnologías modernas de alto rendimiento para optimizar la toma de decisiones.
+# 📊 Ciencia de Datos & Ingeniería Analítica
+
+Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabilidad y estabilidad** de los proyectos. Mi enfoque une la metodología científica con herramientas de alto rendimiento para agilizar la toma de decisiones en entornos dinámicos.
+
+
+### 🛠️ Core Stack & Expertise
+* **Análisis Avanzado:** Modelado predictivo, simulaciones estocásticas y optimización de procesos.
+* **Ingeniería de Datos:** Procesamiento eficiente con DuckDB, SQL Vectorizado y automatización de flujos de trabajo (pipelines).
+* **Ciencia de Datos:** Machine Learning aplicado, explicabilidad de modelos y análisis de impacto en el mundo real.
+
+### 🛠️ Core Stack & Expertise
+* **Modelado de Riesgo:** Credit Scoring, Stress Testing, P&L Optimization, Validación Out-of-Time (OOT).
+* **Ingeniería de Datos:** Arquitecturas de alto rendimiento con DuckDB, SQL Vectorizado y Automatización de Pipelines.
+* **Ciencia de Datos:** XGBoost Monotónico, Explicabilidad (SHAP), Simulaciones Monte Carlo.
 
 ---
 
@@ -18,24 +30,27 @@ Me especializo en transformar sistemas de datos masivos y complejos en solucione
 
 ### 📂 Proyectos Destacados
 
-#### 💳 [Credit Scoring México Q1-2026](https://github.com/tu-usuario/Estrategia-de-Riesgos-Mexico-Q1-2026)
-**Optimización de Riesgo en el Sector Informal e Inflacionario.**
-* **El Reto:** Adaptar el benchmark de *Home Credit* a la realidad macroeconómica de México (Marzo 2026).
-* **La Solución:** Implementación de **XGBoost con Restricciones Monotónicas** para asegurar la interpretabilidad del negocio e integración de variables sintéticas de inflación y tasas de interés.
-* **Impacto:** Simulador de rentabilidad que equilibra el *Expected Loss* con la tasa de interés activa.
-* `Stack: Python, XGBoost, Scikit-learn, Pandas.`
+### 💳 Credit Scoring & Macro Stress Test (Marzo 2026)
+**Optimización de Rentabilidad bajo Inflación y Variación de UDI.**
 
-#### 🎓 [Pipeline de Cartera Universitaria (+245k)](https://github.com/tu-usuario/nombre-del-repo)
-**Arquitectura Híbrida de Alto Rendimiento.**
-* **El Reto:** Procesar una matrícula masiva cruzada con pagos mensuales sin saturar la RAM de producción.
-* **La Solución:** Uso de **DuckDB + CTEs** para un procesamiento relacional vectorial, reduciendo el tiempo de ejecución en un 80%.
-* **Impacto:** Automatización de "fotografías mensuales" para seguimiento de deuda en tiempo real.
-* `Stack: DuckDB, SQL, Pandas, Looker Studio.`
+* **Contexto:** Adaptación de modelos de riesgo para el sector informal ante una inflación del **4.02%** y deudas indexadas a la **UDI ($8.74)**. Se modeló la asfixia financiera generada por el incremento del costo de vida sobre la capacidad de pago.
+* **Acción:** Implementación de **XGBoost Monotónico** integrando variables sintéticas de **capacidad residual de pago** y **DTI (Debt-to-Income) dinámico**. Uso de validación *Out-of-Time* (OOT) para garantizar la estabilidad del modelo ante cambios macroeconómicos.
+* **Impacto:** Reducción del riesgo proyectado en un **14%** mediante la optimización estratégica del umbral de aprobación (Cut-off) al **27%**, logrando el equilibrio óptimo entre tasa de aprobación y beneficio neto por crédito.
+* **Stack:** `Python` | `XGBoost` | `SHAP (Explainability)` | `Monte Carlo Simulation` | `DuckDB`
 
 ---
 
-### 🔬 De la Física a los Datos
-Mi formación doctoral me permite abordar problemas de datos desde una perspectiva de **sistemas complejos**. No solo busco correlaciones; busco entender los mecanismos que generan los datos para construir modelos robustos, escalables y, sobre todo, útiles para el negocio.
+### 🏗️ High-Performance Data Pipeline: Morosity & Enrollment Analytics (+245k Records)
+**Arquitectura de Datos Escalable para Gestión de Cartera en Sector Educativo.**
+
+* **Situación:** El procesamiento de estados de cuenta y morosidad para una matrícula masiva generaba cuellos de botella en memoria RAM y tiempos de ejecución prolongados con herramientas tradicionales.
+* **Acción:** Diseñé un pipeline de datos utilizando **DuckDB** y **SQL Vectorizado** para el procesamiento *in-memory*. Implementé una arquitectura de "Snapshot Mensual" que permite el seguimiento histórico de la Cartera Vencida mediante CTEs complejas.
+* **Impacto:** * **Reducción del 80%** en tiempos de procesamiento de cierre mensual.
+    * Automatización de la segmentación de morosidad por antigüedad (Bucket Analysis).
+    * Visualización estratégica en **Looker Studio** para la toma de decisiones en el área de finanzas.
+* **Stack:** `Python`, `DuckDB`, `SQL (PostgreSQL Dialect)`, `Pandas`, `Looker Studio`.
+
+---
 
 ---
 
