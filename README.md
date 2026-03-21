@@ -4,7 +4,6 @@
 
 Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabilidad y estabilidad** de los proyectos. Mi enfoque une la metodología científica con herramientas de alto rendimiento para agilizar la toma de decisiones en entornos dinámicos.
 
-
 ### 🛠️ Core Stack & Expertis
 * **Modelado de Riesgo:** Modelado predictivo, simulaciones estocásticas y optimización de procesos.
 * **Ingeniería de Datos:** Arquitecturas de alto rendimiento con DuckDB, SQL Vectorizado y Automatización de Pipelines.
