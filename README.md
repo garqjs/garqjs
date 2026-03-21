@@ -5,15 +5,10 @@
 Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabilidad y estabilidad** de los proyectos. Mi enfoque une la metodología científica con herramientas de alto rendimiento para agilizar la toma de decisiones en entornos dinámicos.
 
 
-### 🛠️ Core Stack & Expertise
-* **Análisis Avanzado:** Modelado predictivo, simulaciones estocásticas y optimización de procesos.
-* **Ingeniería de Datos:** Procesamiento eficiente con DuckDB, SQL Vectorizado y automatización de flujos de trabajo (pipelines).
-* **Ciencia de Datos:** Machine Learning aplicado, explicabilidad de modelos y análisis de impacto en el mundo real.
-
-### 🛠️ Core Stack & Expertise
-* **Modelado de Riesgo:** Credit Scoring, Stress Testing, P&L Optimization, Validación Out-of-Time (OOT).
+### 🛠️ Core Stack & Expertis
+* **Modelado de Riesgo:** Modelado predictivo, simulaciones estocásticas y optimización de procesos.
 * **Ingeniería de Datos:** Arquitecturas de alto rendimiento con DuckDB, SQL Vectorizado y Automatización de Pipelines.
-* **Ciencia de Datos:** XGBoost Monotónico, Explicabilidad (SHAP), Simulaciones Monte Carlo.
+* **Ciencia de Datos:** Machine Learning aplicado, explicabilidad de modelos y Simulaciones Monte Carlo.
 
 ---
 
