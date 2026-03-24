@@ -2,12 +2,14 @@
 
 # 📊 Ciencia de Datos & Ingeniería Analítica
 
-Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabilidad y estabilidad** de los proyectos. Mi enfoque une la metodología científica con herramientas de alto rendimiento para agilizar la toma de decisiones en entornos dinámicos.
+Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabilidad y estabilidad**. Mi enfoque une la metodología científica con herramientas de alto rendimiento para agilizar la toma de decisiones en entornos de alta incertidumbre.
 
 ### 🛠️ Core Stack & Expertis
-* **Modelado de Riesgo:** Modelado predictivo, simulaciones estocásticas y optimización de procesos.
-* **Ingeniería de Datos:** Arquitecturas de alto rendimiento con DuckDB, SQL Vectorizado y Automatización de Pipelines.
-* **Ciencia de Datos:** Machine Learning aplicado, explicabilidad de modelos y Simulaciones Monte Carlo.
+
+* **Modelado Predictivo:** XGBoost, Scikit-Learn, y optimización de funciones de pérdida.
+* **Ingeniería de Datos:** Arquitecturas de alto rendimiento con DuckDB, SQL Vectorizado y Pipelines MLOps.
+* **Vigilancia de Modelos:** Monitoreo de estabilidad (PSI), detección de Drift y análisis forense de datos.
+* **Simulación:** Monte Carlo y Stress Testing para evaluación de escenarios complejos.
 
 ---
 
@@ -22,30 +24,23 @@ Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabili
 
 ---
 
-### 📂 Proyectos Destacados
+## 📂 Proyectos Destacados
 
-### 💳 Credit Scoring & Macro Stress Test (Marzo 2026)
-**Optimización de Rentabilidad bajo Inflación y Variación de UDI.**
+### 🛡️ Ecosistema de Riesgo & Vigilancia MLOps (Marzo 2026)
+*Desarrollo de punta a punta para la protección de carteras bajo escenarios de estrés.*
+* **Componente 1 - [Risk Engine MX](https://github.com/garqjs/Macro-Risk-Supervision-Engine-MX):** Motor predictivo modular (OOP) con DuckDB que optimiza el P&L bancario.
+* **Componente 2 - [Risk Sentinel](https://github.com/garqjs/Risk-Sentinel-MLOps-MX):** Framework de auditoría que detectó una inestabilidad poblacional (**PSI 1.86**) mediante análisis de Vintages.
+* **Stack:** Python, DuckDB, XGBoost Monotónico, MLOps.
 
-* **Contexto:** Adaptación de modelos de riesgo para el sector informal ante una inflación del **4.02%** y deudas indexadas a la **UDI ($8.74)**. Se modeló la asfixia financiera generada por el incremento del costo de vida sobre la capacidad de pago.
-* **Acción:** Implementación de **XGBoost Monotónico** integrando variables sintéticas de **capacidad residual de pago** y **DTI (Debt-to-Income) dinámico**. Uso de validación *Out-of-Time* (OOT) para garantizar la estabilidad del modelo ante cambios macroeconómicos.
-* **Impacto:** Reducción del riesgo proyectado en un **14%** mediante la optimización estratégica del umbral de aprobación (Cut-off) al **27%**, logrando el equilibrio óptimo entre tasa de aprobación y beneficio neto por crédito.
-* **Stack:** `Python` | `XGBoost` | `SHAP (Explainability)` | `Monte Carlo Simulation` | `DuckDB`
+### 🕵️ Real-Time Fraud Detection Pipeline
+*Detección de anomalías en flujos transaccionales masivos.*
+* **Logro:** Implementación de un pipeline de baja latencia con ingeniería de variables de velocidad, logrando un **KS de 0.45**.
+* **Stack:** Python, DuckDB, SQL Vectorizado.
 
----
-
-### 🏗️ High-Performance Data Pipeline: Morosity & Enrollment Analytics (+245k Records)
-**Arquitectura de Datos Escalable para Gestión de Cartera en Sector Educativo.**
-
-* **Situación:** El procesamiento de estados de cuenta y morosidad para una matrícula masiva generaba cuellos de botella en memoria RAM y tiempos de ejecución prolongados con herramientas tradicionales.
-* **Acción:** Diseñé un pipeline de datos utilizando **DuckDB** y **SQL Vectorizado** para el procesamiento *in-memory*. Implementé una arquitectura de "Snapshot Mensual" que permite el seguimiento histórico de la Cartera Vencida mediante CTEs complejas.
-* **Impacto:** * **Reducción del 80%** en tiempos de procesamiento de cierre mensual.
-    * Automatización de la segmentación de morosidad por antigüedad (Bucket Analysis).
-    * Visualización estratégica en **Looker Studio** para la toma de decisiones en el área de finanzas.
-* **Stack:** `Python`, `DuckDB`, `SQL (PostgreSQL Dialect)`, `Pandas`, `Looker Studio`.
-
----
-
+### 📈 High-Performance Data Pipeline: Morosity Analytics (+245k Records)
+*Arquitectura escalable para el procesamiento de estados de cuenta masivos.*
+* **Logro:** Reducción del **80%** en tiempos de cierre mensual mediante el uso de CTEs complejas y procesamiento in-memory.
+* **Stack:** SQL (PostgreSQL), DuckDB, Looker Studio.
 ---
 
 ### 📊 GitHub Stats
