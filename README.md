@@ -15,32 +15,35 @@ Transformo grandes volúmenes de datos en soluciones que impulsan la **rentabili
 
 ### 🛠️ Stack Tecnológico
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Motores High-Perf** | ![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge) |
-| **Visualización** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white) |
-
+![Python](https://img.shields.io/badge/python-3578E5?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/duckdb-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB6220?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-🚀-blue?style=for-the-badge)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ---
 
 ## 📂 Proyectos Destacados
 
 ### 🛡️ Ecosistema de Riesgo & Vigilancia MLOps (Marzo 2026)
-*Desarrollo de punta a punta para la protección de carteras bajo escenarios de estrés.*
-* **Componente 1 - [Risk Engine MX](https://github.com/garqjs/Macro-Risk-Supervision-Engine-MX):** Motor predictivo modular (OOP) con DuckDB que optimiza el P&L bancario.
-* **Componente 2 - [Risk Sentinel](https://github.com/garqjs/Risk-Sentinel-MLOps-MX):** Framework de auditoría que detectó una inestabilidad poblacional (**PSI 1.86**) mediante análisis de Vintages.
-* **Stack:** Python, DuckDB, XGBoost Monotónico, MLOps.
+*Solución integral para el ciclo de vida de modelos financieros bajo escenarios de estrés económico.*
 
-### 🕵️ Real-Time Fraud Detection Pipeline
-*Detección de anomalías en flujos transaccionales masivos.*
-* **Logro:** Implementación de un pipeline de baja latencia con ingeniería de variables de velocidad, logrando un **KS de 0.45**.
-* **Stack:** Python, DuckDB, SQL Vectorizado.
+* **Componente 1 - [MX-Credit-Risk-Stress-Testing-2026](https://github.com/garqjs/MX-Credit-Risk-Stress-Testing-2026):** Motor central de decisión con arquitectura **OOP** y **DuckDB** que optimiza el P&L bancario mediante lógica de supervivencia financiera.
+* **Componente 2 - [Macro-Risk-Supervision-Engine-MX](https://github.com/garqjs/Macro-Risk-Supervision-Engine-MX):** Unidad de vigilancia encargada de la salud del modelo, gestionando el despliegue y la integridad de los datos en producción.
+* **Componente 3 - [Risk-Sentinel-MLOps](https://github.com/garqjs/Risk-Sentinel-MLOps-MX):** Framework de monitoreo que detectó una inestabilidad poblacional (**PSI 1.86**) y alertó sobre variaciones en la calidad de cartera mediante análisis de **Vintages**.
+* **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB6220?style=flat-square) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![MLOps](https://img.shields.io/badge/MLOps-🚀-blue?style=flat-square).
+
+---
 
 ### 📈 High-Performance Data Pipeline: Morosity Analytics (+245k Records)
-*Arquitectura escalable para el procesamiento de estados de cuenta masivos.*
-* **Logro:** Reducción del **80%** en tiempos de cierre mensual mediante el uso de CTEs complejas y procesamiento in-memory.
-* **Stack:** SQL (PostgreSQL), DuckDB, Looker Studio.
+*Arquitectura escalable para la gestión de cartera vencida en el sector educativo.*
+
+* **Logro:** Reducción del **80%** en tiempos de procesamiento mensual mediante el uso de **SQL Vectorizado** y procesamiento *in-memory*.
+* **Impacto:** Automatización de la segmentación de morosidad por antigüedad (**Bucket Analysis**) y visualización estratégica para toma de decisiones.
+* **Stack:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square) ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google-cloud&logoColor=white).
+
 ---
 
 ### 📊 GitHub Stats
